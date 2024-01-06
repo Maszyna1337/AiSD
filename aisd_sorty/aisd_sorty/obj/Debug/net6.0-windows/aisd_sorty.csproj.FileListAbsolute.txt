@@ -1,0 +1,17 @@
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\bin\Debug\net6.0-windows\aisd_sorty.exe
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\bin\Debug\net6.0-windows\aisd_sorty.deps.json
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\bin\Debug\net6.0-windows\aisd_sorty.runtimeconfig.json
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\bin\Debug\net6.0-windows\aisd_sorty.dll
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\bin\Debug\net6.0-windows\aisd_sorty.pdb
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.csproj.AssemblyReference.cache
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.Form1.resources
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.csproj.GenerateResource.cache
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.AssemblyInfoInputs.cache
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.AssemblyInfo.cs
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.csproj.CoreCompileInputs.cache
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.dll
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\refint\aisd_sorty.dll
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.pdb
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\aisd_sorty.genruntimeconfig.cache
+C:\Users\SOL\source\repos\aisd_sorty\aisd_sorty\obj\Debug\net6.0-windows\ref\aisd_sorty.dll
