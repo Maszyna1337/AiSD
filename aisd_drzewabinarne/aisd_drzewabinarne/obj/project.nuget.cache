@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OzdayoSVWISqHGz27cIUZH4QnwwbvRi3GKs/u4pTxO0IfbIFyBritgzLwf/QHWAE1tBhMVLHstkV6FndsddRng==",
+  "dgSpecHash": "kh79Ih02PsxpxvFfUkeh3sSUBWl8wo/fQ2d4XWzZhvSpnmlHfoXInxTPpZ379K/m01Avn8sRlN8JebuFBoD+yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOL\\source\\repos\\aisd_drzewabinarne\\aisd_drzewabinarne\\aisd_drzewabinarne.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Salie\\Documents\\GitHub\\AiSD\\aisd_drzewabinarne\\aisd_drzewabinarne\\aisd_drzewabinarne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Salie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Salie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Salie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
